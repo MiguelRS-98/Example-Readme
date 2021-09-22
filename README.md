@@ -23,10 +23,10 @@ El objetivo de ___SecurityInfo___ es que cada habitante de su zona sea capaz de 
 ### Funciones Principales
 En términos generales la aplicación maneja dos conceptos importantes que hacen función constante en el aplicativo, los cuales son:
 * Uno
-* Dos
-* Tres
-* Cuatro
-* Otro dos
+  * Dos
+    * Tres
+  * Cuatro
+    * Otro dos
 Esto con el fin de generar un informe rápido y conciso para posteriormente ser mostrado en cuanto alguien realice alguna consulta en la zona. Cabe aclarar que dicho registro es anónimo, pues se hace con el fin de la seguridad del usuario, generando que no tenga ninguna preocupación en cuanto al momento de registrar se requiera.
 
 ## Descripción
