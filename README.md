@@ -9,7 +9,7 @@
 * Brayan Santiago Buitrago Murillo
 
 ## Problemática
-En la ciudad de Bogotá se ha presentado un notable crecimiento en el número de robos, esto debido a diferentes factores. Uno de los factores más importantes es la falta de pie de fuerza por parte de las instituciones encargadas de la seguridad en el área distrital.
+En la ciudad de Bogotá se ha presentado un notable crecimiento en el número de robos, esto debido a diferentes factores. Uno de los factores más importantes es la falta de pie de fuerza por parte de las instituciones encargadas de la seguridad en el área distrital. <br/>
 “Grafica”
 > Estas graficas se realizando en base a los datos de la cantidad de robos con armas blancas, armas de fuego y sin ningún tipo de armas que fueron denunciados a ___La Policía Nacional de Colombia___ en la ciudad de ___Bogotá D.C.___, registrados hasta el 9 de septiembre de 2021.
 Se puede notar la cantidad alarmante de robos, esto con base a la información notificada a ___La Policía Nacional de Colombia___, esto teniendo en cuenta que el 100% de los robos no son denunciados, incrementando la cantidad de robos en ___Bogotá D.C.___.
@@ -23,10 +23,12 @@ El objetivo de ___SecurityInfo___ es que cada habitante de su zona sea capaz de 
 ### Funciones Principales
 En términos generales la aplicación maneja dos conceptos importantes que hacen función constante en el aplicativo, los cuales son:
 * Consultar <br/>
-Esta función es una de las más importantes, ya que es el incentivo que busca el usuario en nuestro aplicativo, ya que mediante este se podrá estar informando de los constantes peligros que puede presentar en la zona el usuario y así evitar estos.
+Esta función es una de las más importantes, ya que es el incentivo que busca el usuario en nuestro aplicativo, ya que mediante este se podrá estar informando de los constantes peligros que puede presentar en la zona el usuario y así evitar estos. <br/>
 Por otro lado el usuario no solamente podrá consultar la información de la zona en el momento en que se encuentre en dicha área, también estando en otro sitio. Esto se hace con el fin de que nuestros usuarios tengan la posibilidad de poder conocer los posibles riesgos a los que se expondrá de camino a su sitio de destino.
 
-* Registrar
+* Registrar <br/>
+Esta función se puede considerar la más importante, ya que esta es la que nos otorgara la información de las zonas. Como anteriormente se mencionó la idea aparte de poder conocer las zonas críticas, también es dar un sentido de responsabilidad social a los habitantes. <br/>
+Al momento de registrar los robos se le pedirá al usuario tres componentes:
   * Lugar
   * Fecha y Hora
   * Breve descripción
