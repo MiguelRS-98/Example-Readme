@@ -1,12 +1,12 @@
 # SecurityInfo
 
 ## Autores
-> Daniel Santiago Ducuara Ardila
-> Jose Maria Castro Ortega
-> Miguel Angel Rodriguez Siachoque
-> James Alexander Duck Torres
-> Andres Felipe Cubillos Hurtado
-> Brayan Santiago Buitrago Murillo
+- Daniel Santiago Ducuara Ardila
+- Jose Maria Castro Ortega
+- Miguel Angel Rodriguez Siachoque
+- James Alexander Duck Torres
+- Andres Felipe Cubillos Hurtado
+- Brayan Santiago Buitrago Murillo
 
 ## Problemática
 En la ciudad de Bogotá se ha presentado un notable crecimiento en el número de robos, esto debido a diferentes factores. Uno de los factores más importantes es la falta de pie de fuerza por parte de las instituciones encargadas de la seguridad en el área distrital.
