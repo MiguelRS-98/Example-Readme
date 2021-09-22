@@ -10,7 +10,7 @@
 
 ## Problemática
 En la ciudad de Bogotá se ha presentado un notable crecimiento en el número de robos, esto debido a diferentes factores. Uno de los factores más importantes es la falta de pie de fuerza por parte de las instituciones encargadas de la seguridad en el área distrital. <br/>
-“Grafica” <br/>
+<img src="Grafica.jpg" alt="Grafica Robos" width="200"> <br/>
 > Estas graficas se realizando en base a los datos de la cantidad de robos con armas blancas, armas de fuego y sin ningún tipo de armas que fueron denunciados a ___La Policía Nacional de Colombia___ en la ciudad de ___Bogotá D.C.___, registrados hasta el 9 de septiembre de 2021.
 Se puede notar la cantidad alarmante de robos, esto con base a la información notificada a ___La Policía Nacional de Colombia___, esto teniendo en cuenta que el 100% de los robos no son denunciados, incrementando la cantidad de robos en ___Bogotá D.C.___.
 
@@ -41,7 +41,7 @@ Teniendo en cuenta la problemática que se presenta y como nuestro aplicativo we
 ### Geolocalización
 Debido a la magnitud de terreno a cubrir el proyecto se desplegará para solo en área de la ciudad de ___Bogotá D.C.___, siendo una ciudad de alrededor ___8 millones de habitantes___ se entiende sus ___1775 km2___ de superficie. Por esta razón se considera que la aplicación de nuestro proyecto en esta ciudad es la ideal, ya que nos permite evaluar nuestro aplicativo en una ciudad con bastante terreno y una gran cantidad de robos diarios.
 #### Área de visualización
-![Imagen Google Earth](Area.jpg =250x) <br/>
+<img src="Area.jpg" alt="Area Visualización" width="200"> <br/>
 Como se puede apreciar en la imagen anterior, el usuario tendrá un monitoreo de alrededor de zona a una distancia de ___500 metros___ a la redonda, esta distancia se establece debido a las siguientes conclusiones:
 *	En ___Bogotá D.C.___ se maneja el concepto de cuadra que mide alrededor ___80 metros___. 
 *	Una persona camina a una velocidad promedio de ___3 kilómetros por hora___ <br/>
