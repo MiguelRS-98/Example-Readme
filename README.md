@@ -27,6 +27,7 @@ En términos generales la aplicación maneja dos conceptos importantes que hacen
   * Lugar
   * Fecha y Hora
   * Breve descripción <br/>
+  
 Esto con el fin de generar un informe rápido y conciso para posteriormente ser mostrado en cuanto alguien realice alguna consulta en la zona. Cabe aclarar que dicho registro es anónimo, pues se hace con el fin de la seguridad del usuario, generando que no tenga ninguna preocupación en cuanto al momento de registrar se requiera.
 
 ## Descripción
