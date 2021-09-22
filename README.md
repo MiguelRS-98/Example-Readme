@@ -1,12 +1,12 @@
 # SecurityInfo
 
 ## Autores
-- Jose Maria Castro Ortega
-- Daniel Santiago Ducuara Ardila
-- Miguel Angel Rodriguez Siachoque
-- James Alexander Duck Torres
-- Andres Felipe Cubillos Hurtado
-- Brayan Santiago Buitrago Murillo
+* Jose Maria Castro Ortega
+* Daniel Santiago Ducuara Ardila
+* Miguel Angel Rodriguez Siachoque
+* James Alexander Duck Torres
+* Andres Felipe Cubillos Hurtado
+* Brayan Santiago Buitrago Murillo
 
 ## Problemática
 En la ciudad de Bogotá se ha presentado un notable crecimiento en el número de robos, esto debido a diferentes factores. Uno de los factores más importantes es la falta de pie de fuerza por parte de las instituciones encargadas de la seguridad en el área distrital.
@@ -26,7 +26,7 @@ En términos generales la aplicación maneja dos conceptos importantes que hacen
 * Registrar
   * Lugar
   * Fecha y Hora
-  * Breve descripción
+  * Breve descripción <br/>
 Esto con el fin de generar un informe rápido y conciso para posteriormente ser mostrado en cuanto alguien realice alguna consulta en la zona. Cabe aclarar que dicho registro es anónimo, pues se hace con el fin de la seguridad del usuario, generando que no tenga ninguna preocupación en cuanto al momento de registrar se requiera.
 
 ## Descripción
