@@ -22,11 +22,14 @@ Con el fin de dar una solución a dicho problema que aqueja la ciudad, se plante
 El objetivo de ___SecurityInfo___ es que cada habitante de su zona sea capaz de poder registrar y consultar los robos en donde se encuentra, esto con el fin de que el usuario conozca los peligros en los que se encuentra si la zona presenta una cantidad considerable de robos.
 ### Funciones Principales
 En términos generales la aplicación maneja dos conceptos importantes que hacen función constante en el aplicativo, los cuales son:
-* Consultar
+* Consultar <br/>
+Esta función es una de las más importantes, ya que es el incentivo que busca el usuario en nuestro aplicativo, ya que mediante este se podrá estar informando de los constantes peligros que puede presentar en la zona el usuario y así evitar estos.
+Por otro lado el usuario no solamente podrá consultar la información de la zona en el momento en que se encuentre en dicha área, también estando en otro sitio. Esto se hace con el fin de que nuestros usuarios tengan la posibilidad de poder conocer los posibles riesgos a los que se expondrá de camino a su sitio de destino.
+
 * Registrar
   * Lugar
   * Fecha y Hora
-  * Breve descripción <br/>
+  * Breve descripción
   
 Esto con el fin de generar un informe rápido y conciso para posteriormente ser mostrado en cuanto alguien realice alguna consulta en la zona. Cabe aclarar que dicho registro es anónimo, pues se hace con el fin de la seguridad del usuario, generando que no tenga ninguna preocupación en cuanto al momento de registrar se requiera.
 
@@ -38,6 +41,7 @@ Debido a la magnitud de terreno a cubrir el proyecto se desplegará para solo en
 #### Área de visualización
 “Imagen Google Earth”
 Como se puede apreciar en la imagen anterior, el usuario tendrá un monitoreo de alrededor de zona a una distancia de ___500 metros___ a la redonda, esta distancia se establece debido a las siguientes conclusiones:
--	En ___Bogotá D.C.___ se maneja el concepto de cuadra que mide alrededor ___80 metros___. 
--	Una persona camina a una velocidad promedio de ___3 kilómetros por hora___<br/><br/>
+*	En ___Bogotá D.C.___ se maneja el concepto de cuadra que mide alrededor ___80 metros___. 
+*	Una persona camina a una velocidad promedio de ___3 kilómetros por hora___<br/>
+
 Con esto se puede establecer que el usuario podrá ver un el peligro alrededor de ___6 a 7 cuadras___ y con una diferencia entre los ___10 a 16 minutos___.
