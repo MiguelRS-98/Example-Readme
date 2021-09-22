@@ -1,8 +1,8 @@
 # SecurityInfo
 
 ## Autores
-- Daniel Santiago Ducuara Ardila
 - Jose Maria Castro Ortega
+- Daniel Santiago Ducuara Ardila
 - Miguel Angel Rodriguez Siachoque
 - James Alexander Duck Torres
 - Andres Felipe Cubillos Hurtado
@@ -23,11 +23,7 @@ El objetivo de ___SecurityInfo___ es que cada habitante de su zona sea capaz de 
 ### Funciones Principales
 En términos generales la aplicación maneja dos conceptos importantes que hacen función constante en el aplicativo, los cuales son:
 -	Consultar <br/>
-Esta función es una de las más importantes, ya que es el incentivo que busca el usuario en nuestro aplicativo, ya que mediante este se podrá estar informando de los constantes peligros que puede presentar en la zona el usuario y así evitar estos.
-Por otro lado el usuario no solamente podrá consultar la información de la zona en el momento en que se encuentre en dicha área, también estando en otro sitio. Esto se hace con el fin de que nuestros usuarios tengan la posibilidad de poder conocer los posibles riesgos a los que se expondrá de camino a su sitio de destino.
 -	Registrar <br/>
-Esta función se puede considerar la más importante, ya que esta es la que nos otorgara la información de las zonas. Como anteriormente se mencionó la idea aparte de poder conocer las zonas críticas, también es dar un sentido de responsabilidad social a los habitantes.
-Al momento de registrar los robos se le pedirá al usuario tres componentes:
   -	Lugar 
   -	Fecha y Hora
   -	Breve descripción
