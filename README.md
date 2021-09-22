@@ -22,12 +22,16 @@ Con el fin de dar una solución a dicho problema que aqueja la ciudad, se plante
 El objetivo de ___SecurityInfo___ es que cada habitante de su zona sea capaz de poder registrar y consultar los robos en donde se encuentra, esto con el fin de que el usuario conozca los peligros en los que se encuentra si la zona presenta una cantidad considerable de robos.
 ### Funciones Principales
 En términos generales la aplicación maneja dos conceptos importantes que hacen función constante en el aplicativo, los cuales son:
-* **Consultar** <br/>
-Esta función es una de las más importantes, ya que es el incentivo que busca el usuario en nuestro aplicativo, ya que mediante este se podrá estar informando de los constantes peligros que puede presentar en la zona el usuario y así evitar estos. <br/>
+* **Consultar** 
+<br/>
+Esta función es una de las más importantes, ya que es el incentivo que busca el usuario en nuestro aplicativo, ya que mediante este se podrá estar informando de los constantes peligros que puede presentar en la zona el usuario y así evitar estos. 
+<br/>
 Por otro lado el usuario no solamente podrá consultar la información de la zona en el momento en que se encuentre en dicha área, también estando en otro sitio. Esto se hace con el fin de que nuestros usuarios tengan la posibilidad de poder conocer los posibles riesgos a los que se expondrá de camino a su sitio de destino.
 
-* **Registrar** <br/>
-Esta función se puede considerar la más importante, ya que esta es la que nos otorgara la información de las zonas. Como anteriormente se mencionó la idea aparte de poder conocer las zonas críticas, también es dar un sentido de responsabilidad social a los habitantes. <br/>
+* **Registrar** 
+<br/>
+Esta función se puede considerar la más importante, ya que esta es la que nos otorgara la información de las zonas. Como anteriormente se mencionó la idea aparte de poder conocer las zonas críticas, también es dar un sentido de responsabilidad social a los habitantes. 
+<br/>
 Al momento de registrar los robos se le pedirá al usuario tres componentes:
   * Lugar
   * Fecha y Hora
@@ -41,9 +45,10 @@ Teniendo en cuenta la problemática que se presenta y como nuestro aplicativo we
 ### Geolocalización
 Debido a la magnitud de terreno a cubrir el proyecto se desplegará para solo en área de la ciudad de ___Bogotá D.C.___, siendo una ciudad de alrededor ___8 millones de habitantes___ se entiende sus ___1775 km2___ de superficie. Por esta razón se considera que la aplicación de nuestro proyecto en esta ciudad es la ideal, ya que nos permite evaluar nuestro aplicativo en una ciudad con bastante terreno y una gran cantidad de robos diarios.
 #### Área de visualización
-“Imagen Google Earth”
+![Imagen Google Earth](Area.jpg)
+<br/>
 Como se puede apreciar en la imagen anterior, el usuario tendrá un monitoreo de alrededor de zona a una distancia de ___500 metros___ a la redonda, esta distancia se establece debido a las siguientes conclusiones:
 *	En ___Bogotá D.C.___ se maneja el concepto de cuadra que mide alrededor ___80 metros___. 
-*	Una persona camina a una velocidad promedio de ___3 kilómetros por hora___<br/>
-
+*	Una persona camina a una velocidad promedio de ___3 kilómetros por hora___
+<br/>
 Con esto se puede establecer que el usuario podrá ver un el peligro alrededor de ___6 a 7 cuadras___ y con una diferencia entre los ___10 a 16 minutos___.
