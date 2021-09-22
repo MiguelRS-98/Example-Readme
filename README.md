@@ -41,7 +41,7 @@ Teniendo en cuenta la problemática que se presenta y como nuestro aplicativo we
 ### Geolocalización
 Debido a la magnitud de terreno a cubrir el proyecto se desplegará para solo en área de la ciudad de ___Bogotá D.C.___, siendo una ciudad de alrededor ___8 millones de habitantes___ se entiende sus ___1775 km2___ de superficie. Por esta razón se considera que la aplicación de nuestro proyecto en esta ciudad es la ideal, ya que nos permite evaluar nuestro aplicativo en una ciudad con bastante terreno y una gran cantidad de robos diarios.
 #### Área de visualización
-<img src="Area.jpg" alt="Grafica Robos" width="500"/>
+<img src="Area.jpg" alt="Grafica Robos" width="500"/><br/>
 Como se puede apreciar en la imagen anterior, el usuario tendrá un monitoreo de alrededor de zona a una distancia de ___500 metros___ a la redonda, esta distancia se establece debido a las siguientes conclusiones:
 * En ___Bogotá D.C.___ se maneja el concepto de cuadra que mide alrededor ___80 metros___.
 * Una persona camina a una velocidad promedio de ___3 kilómetros por hora___. <br/>
