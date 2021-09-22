@@ -43,6 +43,6 @@ Debido a la magnitud de terreno a cubrir el proyecto se desplegará para solo en
 #### Área de visualización
 <img src="Area.jpg" alt="Area Visualización" width="500"/>
 Como se puede apreciar en la imagen anterior, el usuario tendrá un monitoreo de alrededor de zona a una distancia de ___500 metros___ a la redonda, esta distancia se establece debido a las siguientes conclusiones:
-*	En ___Bogotá D.C.___ se maneja el concepto de cuadra que mide alrededor ___80 metros___. 
-*	Una persona camina a una velocidad promedio de ___3 kilómetros por hora___ <br/>
+* En ___Bogotá D.C.___ se maneja el concepto de cuadra que mide alrededor ___80 metros___. 
+* Una persona camina a una velocidad promedio de ___3 kilómetros por hora___ <br/>
 Con esto se puede establecer que el usuario podrá ver un el peligro alrededor de ___6 a 7 cuadras___ y con una diferencia entre los ___10 a 16 minutos___.
