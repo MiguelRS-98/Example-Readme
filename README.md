@@ -22,16 +22,16 @@ Con el fin de dar una solución a dicho problema que aqueja la ciudad, se plante
 El objetivo de ___SecurityInfo___ es que cada habitante de su zona sea capaz de poder registrar y consultar los robos en donde se encuentra, esto con el fin de que el usuario conozca los peligros en los que se encuentra si la zona presenta una cantidad considerable de robos.
 ### Funciones Principales
 En términos generales la aplicación maneja dos conceptos importantes que hacen función constante en el aplicativo, los cuales son:
--	Consultar
+-	Consultar <br/>
 Esta función es una de las más importantes, ya que es el incentivo que busca el usuario en nuestro aplicativo, ya que mediante este se podrá estar informando de los constantes peligros que puede presentar en la zona el usuario y así evitar estos.
 Por otro lado el usuario no solamente podrá consultar la información de la zona en el momento en que se encuentre en dicha área, también estando en otro sitio. Esto se hace con el fin de que nuestros usuarios tengan la posibilidad de poder conocer los posibles riesgos a los que se expondrá de camino a su sitio de destino.
--	Registrar
+-	Registrar <br/>
 Esta función se puede considerar la más importante, ya que esta es la que nos otorgara la información de las zonas. Como anteriormente se mencionó la idea aparte de poder conocer las zonas críticas, también es dar un sentido de responsabilidad social a los habitantes.
 Al momento de registrar los robos se le pedirá al usuario tres componentes:
--	Lugar 
--	Fecha y Hora
--	Breve descripción
-Esto con el fin de generar un informe rápido y conciso para posteriormente ser mostrado en cuanto alguien realice alguna consulta en la zona. Cabe aclarar que dicho registro es anónimo, pues se hace con el fin de la seguridad del usuario, generando que no tenga ninguna preocupación en cuanto al momento de registrar se requiera.
+  -	Lugar 
+  -	Fecha y Hora
+  -	Breve descripción
+  Esto con el fin de generar un informe rápido y conciso para posteriormente ser mostrado en cuanto alguien realice alguna consulta en la zona. Cabe aclarar que dicho registro es anónimo, pues se hace con el fin de la seguridad del usuario, generando que no tenga ninguna preocupación en cuanto al momento de registrar se requiera.
 
 ## Descripción
 Teniendo en cuenta la problemática que se presenta y como nuestro aplicativo web y móvil genera una solución a esta, se puede explicar de una forma más técnica la organización de nuestro aplicativo, mostrando su arquitectura y herramientas utilizadas en el proceso de creación y mantenimiento de este.
