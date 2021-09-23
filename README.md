@@ -65,7 +65,7 @@ Como se puede apreciar en la imagen anterior, el usuario tendrá un monitoreo de
 Con esto se puede establecer que el usuario podrá ver un el peligro alrededor de ___6 a 7 cuadras___ y con una diferencia entre los ___10 a 16 minutos___, esto con el fin de que el usuario tenga tiempo suficiente para reaccionar al peligro.
 
 #### Notificación en la zona
-<img src="ArchivosReadme/Imagenes/DatosUsuario.PNG" alt="Datos Usuario" width="400"/><br/>
+<img src="ArchivosReadme/Imagenes/DatosUsuario.PNG" alt="Datos Usuario" width="350"/><br/>
 <img src="ArchivosReadme/Imagenes/DatosRobo.PNG" alt="Datos Robo" width="500"/><br/>
 <img src="ArchivosReadme/Imagenes/EnvioUsuario.PNG" alt="Envio Usuario" width="700"/><br/>
 
