@@ -82,7 +82,7 @@ Aquí podemos ver el formato en que trabaja ___SecurityInfo___ para la notificac
 
 ## Diseño del Aplicativo
 Este diseño se compone d 6 paquetes para el funcionamiento adecuado del aplicativo. <br/><br/>
-<img src="ArchivosReadme/Imagenes/DiagramaPackage.jpg" alt="Diagrama General" width="300"/><br/>
+<img src="ArchivosReadme/Imagenes/DiagramaPackage.jpg" alt="Diagrama General" width="200"/><br/>
 * **Paquete Controller** <br/><br/>
 <img src="ArchivosReadme/Imagenes/DiagramaController.jpg" alt="Diagrama Controller" width="500"/><br/>
 * **Paquete Dto** <br/><br/>
