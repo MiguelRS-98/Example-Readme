@@ -65,10 +65,16 @@ Como se puede apreciar en la imagen anterior, el usuario tendrá un monitoreo de
 Con esto se puede establecer que el usuario podrá ver un el peligro alrededor de ___6 a 7 cuadras___ y con una diferencia entre los ___10 a 16 minutos___, esto con el fin de que el usuario tenga tiempo suficiente para reaccionar al peligro.
 
 #### Notificación en la zona
+No solamente el usuario podrá realizar la consulta de los robos cercanos, también se podrá notificar al usuario mediante su correo electrónico el robo:
+* **Fecha y Hora**
+* **Descripción**
+* **Enlace para verificar la zona donde sucede** <br/>
 <img src="ArchivosReadme/Imagenes/DatosUsuario.PNG" alt="Datos Usuario" width="350"/><br/>
+> Aquí podemos ver los datos de uno de los usuarios de ___SecurityInfo___.
 <img src="ArchivosReadme/Imagenes/DatosRobo.PNG" alt="Datos Robo" width="500"/><br/>
+> Aquí podemos ver la información registrada por un usuario de ___SecurityInfo___.
 <img src="ArchivosReadme/Imagenes/EnvioUsuario.PNG" alt="Envio Usuario" width="700"/><br/>
-
+> Aquí podemos ver el formato en que trabaja ___SecurityInfo___ para la notificación de sus usuarios.
 
 ## Diseño del Aplicativo
 
