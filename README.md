@@ -83,17 +83,17 @@ Aquí podemos ver el formato en que trabaja ___SecurityInfo___ para la notificac
 ## Diseño del Aplicativo
 Este diseño se compone d 6 paquetes para el funcionamiento adecuado del aplicativo. <br/><br/>
 <img src="ArchivosReadme/Imagenes/DiagramaPackage.jpg" alt="Diagrama General" width="500"/><br/>
-* **Paquete Controller** <br/>
+* **Paquete Controller** <br/><br/>
 <img src="ArchivosReadme/Imagenes/DiagramaController.jpg" alt="Diagrama Controller" width="500"/><br/>
-* **Paquete Dto** <br/>
+* **Paquete Dto** <br/><br/>
 <img src="ArchivosReadme/Imagenes/DiagramaDto.jpg" alt="Diagrama Dto" width="500"/><br/>
-* **Paquete Model** <br/>
+* **Paquete Model** <br/><br/>
 <img src="ArchivosReadme/Imagenes/DiagramaModel.jpg" alt="Diagrama Model" width="500"/><br/>
-* **Paquete Repository** <br/>
+* **Paquete Repository** <br/><br/>
 <img src="ArchivosReadme/Imagenes/DiagramaRepository.jpg" alt="Diagrama Repository" width="500"/><br/>
-* **Paquete Service** <br/>
+* **Paquete Service** <br/><br/>
 <img src="ArchivosReadme/Imagenes/DiagramaService.jpg" alt="Diagrama Service" width="500"/><br/>
-* **Paquete Test** <br/>
+* **Paquete Test** <br/><br/>
 <img src="ArchivosReadme/Imagenes/Test1.jpeg" alt="Test" width="500"/><br/>
 <img src="ArchivosReadme/Imagenes/Test2.jpeg" alt="Test " width="500"/><br/>
 <img src="ArchivosReadme/Imagenes/Test3.jpeg" alt="Test" width="500"/><br/>
