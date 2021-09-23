@@ -68,7 +68,7 @@ Con esto se puede establecer que el usuario podrá ver un el peligro alrededor d
 No solamente el usuario podrá realizar la consulta de los robos cercanos, también se podrá notificar al usuario mediante su correo electrónico el robo:
 * **Fecha y Hora**
 * **Descripción**
-* **Enlace para verificar la zona donde sucede** <br/><br/>
+* **Enlace para verificar la zona donde sucede** <br/>
 
 <img src="ArchivosReadme/Imagenes/DatosUsuario.PNG" alt="Datos Usuario" width="350"/><br/>
 > Aquí podemos ver los datos de uno de los usuarios de ___SecurityInfo___.<br/>
