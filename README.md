@@ -35,7 +35,7 @@ Esta función es una de las más importantes, ya que es el incentivo que busca e
 Por otro lado el usuario no solamente podrá consultar la información de la zona en el momento en que se encuentre en dicha área, también estando en otro sitio. Esto se hace con el fin de que nuestros usuarios tengan la posibilidad de poder conocer los posibles riesgos a los que se expondrá de camino a su sitio de destino.
 
 * **Registrar** <br/><br/>
-Esta función se puede considerar la más importante, ya que esta es la que nos otorgara la información de las zonas. Como anteriormente se mencionó la idea aparte de poder conocer las zonas críticas, también es dar un sentido de responsabilidad social a los habitantes. <br/>
+Esta función se puede considerar la más importante, ya que esta es la que nos otorgara la información de las zonas. Como anteriormente se mencionó la idea aparte de poder conocer las zonas críticas, también es dar un sentido de responsabilidad social a los habitantes. <br/><br/>
 Al momento de registrar los robos se le pedirá al usuario tres componentes:
   * **Lugar**
   * **Fecha y Hora**
