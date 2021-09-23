@@ -71,10 +71,10 @@ No solamente el usuario podrá realizar la consulta de los robos cercanos, tambi
 * **Enlace para verificar la zona donde sucede** <br/><br/>
 
 <img src="ArchivosReadme/Imagenes/DatosUsuario.PNG" alt="Datos Usuario" width="350"/><br/>
-> Aquí podemos ver los datos de uno de los usuarios de ___SecurityInfo___.<br/><br/>
+> Aquí podemos ver los datos de uno de los usuarios de ___SecurityInfo___.<br/>
 
 <img src="ArchivosReadme/Imagenes/DatosRobo.PNG" alt="Datos Robo" width="500"/><br/>
-> Aquí podemos ver la información registrada por un usuario de ___SecurityInfo___.<br/><br/>
+> Aquí podemos ver la información registrada por un usuario de ___SecurityInfo___.<br/>
 
 <img src="ArchivosReadme/Imagenes/EnvioUsuario.PNG" alt="Envio Usuario" width="700"/><br/>
 > Aquí podemos ver el formato en que trabaja ___SecurityInfo___ para la notificación de sus usuarios.
