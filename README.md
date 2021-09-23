@@ -1,4 +1,5 @@
 # SecurityInfo
+<img src="SecurityInfo.png" alt="Logo" width="300"/><br/>
 
 ## Autores
 * Jose Maria Castro Ortega
