@@ -37,9 +37,9 @@ Por otro lado el usuario no solamente podrá consultar la información de la zon
 * **Registrar** <br/><br/>
 Esta función se puede considerar la más importante, ya que esta es la que nos otorgara la información de las zonas. Como anteriormente se mencionó la idea aparte de poder conocer las zonas críticas, también es dar un sentido de responsabilidad social a los habitantes. <br/>
 Al momento de registrar los robos se le pedirá al usuario tres componentes:
-  * Lugar
-  * Fecha y Hora
-  * Breve descripción
+  * **Lugar**
+  * **Fecha y Hora**
+  * **Breve descripción**
   
 Esto con el fin de generar un informe rápido y conciso para posteriormente ser mostrado en cuanto alguien realice alguna consulta en la zona. Cabe aclarar que dicho registro es anónimo, pues se hace con el fin de la seguridad del usuario, generando que no tenga ninguna preocupación en cuanto al momento de registrar se requiera.
 
