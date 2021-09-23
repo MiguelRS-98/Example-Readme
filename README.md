@@ -58,6 +58,7 @@ Esta consulta es la que realiza el usuario mediante la visualización del mapa, 
 #### Área de visualización
 <img src="ArchivosReadme/Imagenes/Area.jpg" alt="Grafica Robos" width="500"/><br/>
 > Las coordenadas del punto 1 al 4, fueron generadas por el aplicativo, con base en la ubicación dada por el usuario, ya se la ubicación actual del usuario o una ubicación consultada por el mismo.
+
 Como se puede apreciar en la imagen anterior, el usuario tendrá un monitoreo de alrededor de zona a una distancia de ___500 metros___ a la redonda, esta distancia se establece debido a las siguientes conclusiones:
 * En ___Bogotá D.C.___ se maneja el concepto de cuadra que mide alrededor ___80 metros___.
 * Una persona camina a una velocidad promedio de ___3 kilómetros por hora___. <br/>
