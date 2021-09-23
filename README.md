@@ -81,4 +81,13 @@ Aquí podemos ver la información registrada por un usuario de ___SecurityInfo__
 Aquí podemos ver el formato en que trabaja ___SecurityInfo___ para la notificación de sus usuarios con toda la información antes mencionada.
 
 ## Diseño del Aplicativo
+<img src="ArchivosReadme/Imagenes/DiagramaPackage.jpg" alt="Diagrama General" width="500"/><br/>
+<img src="ArchivosReadme/Imagenes/DiagramaController.jpg" alt="Diagrama Controller" width="500"/><br/>
+<img src="ArchivosReadme/Imagenes/DiagramaDto.jpg" alt="Diagrama Dto" width="500"/><br/>
+<img src="ArchivosReadme/Imagenes/DiagramaModel.jpg" alt="Diagrama Model" width="500"/><br/>
+<img src="ArchivosReadme/Imagenes/DiagramaRepository.jpg" alt="Diagrama Repository" width="500"/><br/>
+<img src="ArchivosReadme/Imagenes/DiagramaService.jpg" alt="Diagrama Service" width="500"/><br/>
+> Para más información respecto a los diagramas de clases anteriormente vistos, diríjase 
+> [Archivo Fuente De Diagramas]( ArchivosReadme/Archivos/DiagramaSecurityInfo.asta) <br/>
+
 
