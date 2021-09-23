@@ -14,7 +14,7 @@ En la ciudad de Bogotá se ha presentado un notable crecimiento en el número de
 <img src="GraficaRobosColumnas.jpg" alt="Grafica Robos" width="650"/><br/>
 <img src="GraficaRobosCircular.jpg" alt="Grafica Robos" width="650"/><br/>
 > Estas graficas se realizando en base a los datos de la cantidad de robos con armas blancas, armas de fuego y sin ningún tipo de armas que fueron denunciados a ___La Policía Nacional de Colombia___ en la ciudad de ___Bogotá D.C.___, registrados hasta el 9 de septiembre de 2021.
-> [Archivo Fuente De Robos](CifrasDeRobo.xlsx)
+> [Archivo Fuente De Robos](CifrasDeRobo.xlsx) <br/>
 Se puede notar la cantidad alarmante de robos, esto con base a la información notificada a ___La Policía Nacional de Colombia___, esto teniendo en cuenta que el 100% de los robos no son denunciados, incrementando la cantidad de robos en ___Bogotá D.C.___. <br/><br/>
 El factor preocupante de la situación se encuentra que de los ___2924 robos___ en la ciudad, un gran porcentaje tiene complicaciones graves por la utilización de armas, ya que el ___22% fueron con armas blancas y 19% con armas de fuego___ con lo cual sería la peligrosidad critica de los robos sería del ___41%___. Esta cifra es preocupante y por esta razón es uno de los mayores problemas de la ciudad.
 
