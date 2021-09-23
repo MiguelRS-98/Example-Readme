@@ -47,11 +47,11 @@ Debido a la magnitud de terreno a cubrir el proyecto se desplegará para solo en
 #### Método de localización
 En este caso el método de localización se establecerá mediante coordenadas geográficas con lo cual se conformarán por ___latitudes y latitudes___. Con esto se establecerá dos métodos de búsqueda:
 * **Consulta por dirección** <br/>
-<img src="ConsultaDireccion.png" alt="Método de localización" width="300"/><br/>
+<img src="ConsultaDireccion.jpg" alt="Método de localización" width="300"/><br/>
 Esta consulta es la que realiza el usuario mediante el ingreso de una dirección o un sitio referente en la ciudad, esto con el fin de que los usuarios puedan hallar fácilmente la ubicación deseada.
 
 * **Consulta grafica** <br/>
-<img src="ConsultaGrafica.png" alt="Método de localización" width="300"/><br/>
+<img src="ConsultaGrafica.jpg" alt="Método de localización" width="300"/><br/>
 Esta consulta es la que realiza el usuario mediante la visualización del mapa, para que el usuario pueda ubicar la zona de forma gráfica, esto se realiza para usuarios que no conozcan la dirección exacta del sitio.
 
 
