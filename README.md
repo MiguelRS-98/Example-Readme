@@ -15,11 +15,11 @@ En la ciudad de Bogotá se ha presentado un notable crecimiento en el número de
 <img src="GraficaRobosCircular.jpg" alt="Grafica Robos" width="650"/><br/>
 > Estas graficas se realizando en base a los datos de la cantidad de robos con armas blancas, armas de fuego y sin ningún tipo de armas que fueron denunciados a ___La Policía Nacional de Colombia___ en la ciudad de ___Bogotá D.C.___, registrados hasta el 9 de septiembre de 2021.
 
-Se puede notar la cantidad alarmante de robos, esto con base a la información notificada a ___La Policía Nacional de Colombia___, esto teniendo en cuenta que el 100% de los robos no son denunciados, incrementando la cantidad de robos en ___Bogotá D.C.___.<br/>
+Se puede notar la cantidad alarmante de robos, esto con base a la información notificada a ___La Policía Nacional de Colombia___, esto teniendo en cuenta que el 100% de los robos no son denunciados, incrementando la cantidad de robos en ___Bogotá D.C.___. <br/><br/>
 El factor preocupante de la situación se encuentra que de los ___2924 robos___ en la ciudad, un gran porcentaje tiene complicaciones graves por la utilización de armas, ya que el ___22% fueron con armas blancas y 19% con armas de fuego___ con lo cual sería la peligrosidad critica de los robos sería del ___41%___. Esta cifra es preocupante y por esta razón es uno de los mayores problemas de la ciudad.
 
 ## Propuesta
-Teniendo en cuenta el crecimiento en la cantidad de dispositivos inteligentes móviles en ___Bogotá D.C.___, que ha llegado a tal punto en que la gran mayoría de habitantes posee al menos uno de estos dispositivos y también la importancia que han tomado los planes de datos móviles y zonas wifi gratuitas con lo cual la mayoría de los dispositivos móviles tienen acceso a internet en cualquier instante.
+Teniendo en cuenta el crecimiento en la cantidad de dispositivos inteligentes móviles en ___Bogotá D.C.___, que ha llegado a tal punto en que la gran mayoría de habitantes posee al menos uno de estos dispositivos y también la importancia que han tomado los planes de datos móviles y zonas wifi gratuitas con lo cual la mayoría de los dispositivos móviles tienen acceso a internet en cualquier instante. <br/><br/>
 Con el fin de dar una solución a dicho problema que aqueja la ciudad, se plantea este aplicativo web y móvil. Así pudiendo dar una solución a la falta de pie de fuerza de las instituciones encargadas de la seguridad y dando más responsabilidad ciudadana a cada habitante de su zona.
 
 ### Objetivo
@@ -30,7 +30,7 @@ Teniendo en cuenta la problemática que se presenta y como nuestro aplicativo we
 ### Funciones Principales
 En términos generales la aplicación maneja dos conceptos importantes que hacen función constante en el aplicativo, los cuales son:
 * **Consultar** <br/>
-Esta función es una de las más importantes, ya que es el incentivo que busca el usuario en nuestro aplicativo, ya que mediante este se podrá estar informando de los constantes peligros que puede presentar en la zona el usuario y así evitar estos. <br/>
+Esta función es una de las más importantes, ya que es el incentivo que busca el usuario en nuestro aplicativo, ya que mediante este se podrá estar informando de los constantes peligros que puede presentar en la zona el usuario y así evitar estos. <br/><br/>
 Por otro lado el usuario no solamente podrá consultar la información de la zona en el momento en que se encuentre en dicha área, también estando en otro sitio. Esto se hace con el fin de que nuestros usuarios tengan la posibilidad de poder conocer los posibles riesgos a los que se expondrá de camino a su sitio de destino.
 
 * **Registrar** <br/>
