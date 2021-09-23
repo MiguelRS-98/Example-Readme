@@ -55,3 +55,5 @@ Como se puede apreciar en la imagen anterior, el usuario tendrá un monitoreo de
 * Una persona camina a una velocidad promedio de ___3 kilómetros por hora___. <br/>
 
 Con esto se puede establecer que el usuario podrá ver un el peligro alrededor de ___6 a 7 cuadras___ y con una diferencia entre los ___10 a 16 minutos___, esto con el fin de que el usuario tenga tiempo suficiente para reaccionar al peligro.
+
+## Diseño del Aplicativo
