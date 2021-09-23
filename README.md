@@ -47,11 +47,11 @@ Esto con el fin de generar un informe rápido y conciso para posteriormente ser 
 Debido a la magnitud de terreno a cubrir el proyecto se desplegará para solo en área de la ciudad de ___Bogotá D.C.___, siendo una ciudad de alrededor ___8 millones de habitantes___ se entiende sus ___1775 km2___ de superficie. Por esta razón se considera que la aplicación de nuestro proyecto en esta ciudad es la ideal, ya que nos permite evaluar nuestro aplicativo en una ciudad con bastante terreno y una gran cantidad de robos diarios.
 #### Método de localización
 En este caso el método de localización se establecerá mediante coordenadas geográficas con lo cual se conformarán por ___latitudes y latitudes___. Con esto se establecerá dos métodos de búsqueda:  <br/>
-* **Consulta por dirección** <br/>
+* **Consulta por dirección** <br/><br/>
 <img src="ArchivosReadme/Imagenes/ConsultaDireccion.jpg" alt="Método de localización" width="300"/><br/>
 Esta consulta es la que realiza el usuario mediante el ingreso de una dirección o un sitio referente en la ciudad, esto con el fin de que los usuarios puedan hallar fácilmente la ubicación deseada.
 
-* **Consulta grafica** <br/>
+* **Consulta grafica** <br/><br/>
 <img src="ArchivosReadme/Imagenes/ConsultaGrafica.jpg" alt="Método de localización" width="300"/><br/>
 Esta consulta es la que realiza el usuario mediante la visualización del mapa, para que el usuario pueda ubicar la zona de forma gráfica, esto se realiza para usuarios que no conozcan la dirección exacta del sitio.
 
