@@ -97,6 +97,7 @@ Este diseño se compone d 6 paquetes para el funcionamiento adecuado del aplicat
 <img src="ArchivosReadme/Imagenes/Test1.jpeg" alt="Test" width="500"/><br/>
 <img src="ArchivosReadme/Imagenes/Test2.jpeg" alt="Test " width="500"/><br/>
 <img src="ArchivosReadme/Imagenes/Test3.jpeg" alt="Test" width="500"/><br/>
+En este caso se realizaron las correspondientes pruebas para supervisar que el correcto funcionamiento del aplicativo, por esta razón se realizó una cantidad de 8 pruebas cuyo resultado es el esperado. ___7 pruebas fueron diseñadas para ser pasadas y la restante para que no pasara, esto debido a la lógica que conllevan las pruebas.___
 
 > Para más información respecto a los diagramas de clases anteriormente vistos, diríjase 
 > [Archivo Fuente De Diagramas]( ArchivosReadme/Archivos/DiagramaSecurityInfo.asta) <br/>
