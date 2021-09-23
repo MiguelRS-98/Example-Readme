@@ -14,7 +14,6 @@ En la ciudad de Bogotá se ha presentado un notable crecimiento en el número de
 <img src="GraficaRobosColumnas.jpg" alt="Grafica Robos" width="650"/><br/>
 <img src="GraficaRobosCircular.jpg" alt="Grafica Robos" width="650"/><br/>
 > Estas graficas se realizando en base a los datos de la cantidad de robos con armas blancas, armas de fuego y sin ningún tipo de armas que fueron denunciados a ___La Policía Nacional de Colombia___ en la ciudad de ___Bogotá D.C.___, registrados hasta el 9 de septiembre de 2021.
-Se puede notar la cantidad alarmante de robos, esto con base a la información notificada a ___La Policía Nacional de Colombia___, esto teniendo en cuenta que el 100% de los robos no son denunciados, incrementando la cantidad de robos en ___Bogotá D.C.___.
 
 Se puede notar la cantidad alarmante de robos, esto con base a la información notificada a ___La Policía Nacional de Colombia___, esto teniendo en cuenta que el 100% de los robos no son denunciados, incrementando la cantidad de robos en ___Bogotá D.C.___.
 
