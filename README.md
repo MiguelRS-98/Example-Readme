@@ -66,8 +66,8 @@ Con esto se puede establecer que el usuario podrá ver un el peligro alrededor d
 
 #### Notificación en la zona
 <img src="ArchivosReadme/Imagenes/DatosUsuario.PNG" alt="Datos Usuario" width="400"/><br/>
-<img src="ArchivosReadme/Imagenes/DatosRobo.PNG" alt="Datos Robo" width="400"/><br/>
-<img src="ArchivosReadme/Imagenes/EnvioUsuario.PNG" alt="Envio Usuario" width="600"/><br/>
+<img src="ArchivosReadme/Imagenes/DatosRobo.PNG" alt="Datos Robo" width="500"/><br/>
+<img src="ArchivosReadme/Imagenes/EnvioUsuario.PNG" alt="Envio Usuario" width="700"/><br/>
 
 
 ## Diseño del Aplicativo
